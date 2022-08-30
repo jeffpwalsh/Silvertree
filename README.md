@@ -1,8 +1,14 @@
-## Link to button component passing props on colour change
-
+## Link to live app - button chanages colour on click
 https://silvertree.herokuapp.com/
 
-## Link to react code (button) component 
+### Link to React code (button) component 
+https://github.com/jeffpwalsh/Silvertree/blob/main/src/Button.js
 
-## Link to react code (app) component 
+### Link to React code (app) component
+https://github.com/jeffpwalsh/Silvertree/blob/main/src/App.js
+
+### Technologies
+- React
+- Props
+- useState
 
